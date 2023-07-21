@@ -7,3 +7,6 @@ an iOS Developer with 5 years of experience in developing, testing and deploying
 - 🔭 I’m currently working on Restaurant 356
 - 🌱 I'm extending my knowledge in SwiftUI and Unit testing.
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
